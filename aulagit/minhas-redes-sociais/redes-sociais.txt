@@ -1,0 +1,6 @@
+1 - Facebook
+2 - Instagram
+3 - Whatsapp
+4 - TikTok
+5 - Kwai
+6 - Telegram
