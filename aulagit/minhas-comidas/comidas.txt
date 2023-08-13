@@ -1,0 +1,10 @@
+1 - Arroz congrís
+2 - Tamales
+3 - Tostones
+4 - Flan
+5 - Arroz apastelado
+6 - Torrejas
+7 - Buñuelos
+8 - Mermelada de guayaba
+9 - Batido de mamey
+10 - Mantecados
